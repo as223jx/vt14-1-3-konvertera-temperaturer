@@ -1,0 +1,21 @@
+﻿.title{
+    font-size:20px;
+}
+
+.red {
+    color:#f00;
+}
+
+.div {
+    width:200px;
+    background-color:#cbcbcb;
+    border-style:solid;
+    border-width:1px;
+    border-color:#808080;
+    margin:10px;
+    padding:10px;
+}
+
+.result {
+    margin-left:10px;
+}
